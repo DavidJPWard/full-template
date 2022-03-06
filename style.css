@@ -1,0 +1,14 @@
+#game-window{
+    width: 90%;
+
+    padding-top: 40%;
+    background-color: aqua;
+}
+
+#output{
+    width: 48%;
+    left: 1%;
+    margin: 1%;
+    background-color: black;
+    padding-top: 20%;
+}
